@@ -1,0 +1,11 @@
+out/
+rockdev/
+.bootstrap/
+cscope.out
+cscope.files
+cscope.in.out
+cscope.po.out
+tags
+hardware/rockchip/librga/version.h
+hardware/rockchip/libhwjpeg/src/version.h
+libOpenCL.so
