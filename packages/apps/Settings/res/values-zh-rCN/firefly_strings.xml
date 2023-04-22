@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Ethernet Settings -->
+    <string name="ethernet_settings_title">有线网络</string>
+    <string name="ethernet_netmask_hint" translatable="false"> 255.255.255.0</string>
+    <string name="ethernet_info_getting">"获取IP信息..."</string>
+    <string name="ethernet_settings">有线网络</string>
+    <string name="ethernet_connect">连接</string>
+    <string name="ethernet_cancel">取消</string>
+
+    <!-- ethernet hw address  -->
+    <string name="ethernet_hw_addr">MAC地址</string>
+    <!-- ethernet ip address  -->
+    <string name="ethernet_ip_addr">IP地址</string>
+    <!-- ethernet netmask  -->
+    <string name="ethernet_netmask">子网掩码</string>
+    <!-- ethernet gateway  -->
+    <string name="ethernet_gateway">默认网关</string>
+    <!-- ethernet dns1  -->
+    <string name="ethernet_dns1">首选DNS服务器</string>
+    <!-- ethernet dns2 -->
+    <string name="ethernet_dns2">备用DNS服务器</string>
+    <string name="category_ethernet">静态IP设置</string>
+    <string name="usedhcp">动态IP</string>
+    <string name="usestatic">静态IP</string>
+    <string name="usepppoe">pppoe</string>
+
+    <string name="ethernet_quick_toggle_title">有线网络</string>
+    <!-- Ethernet settings check box summary for turning on ethernet -->
+    <string name="ethernet_quick_toggle_summary_off">有线网络已禁用</string>
+    <!--Used as title on second screen after selecting Ethernet settings -->
+    <string name="ethernet_quick_toggle_summary_on">有线网络已启用</string>
+    <!--Used as title on second screen after selecting Ethernet settings -->
+    <string name="ethernet_mode_title">上网模式</string>
+
+
+    <!-- deviceinfo  firefly version-->
+    <string name="firefly_version">Firefly 版本</string>
+</resources>
